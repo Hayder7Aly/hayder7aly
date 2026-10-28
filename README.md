@@ -1,142 +1,85 @@
-### Hi there, I'm Hayder 👋
+<div align="center">
 
-💻 **Software Engineer** | 🚀 **Tech Enthusiast** | ⚡ **Performance-Focused**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Hayder+%F0%9F%91%8B;AI+Full-Stack+Engineer;I+build+agents+that+actually+ship+%F0%9F%A4%96;LLMs+%E2%80%A2+RAG+%E2%80%A2+APIs+%E2%80%A2+Cloud" alt="Typing intro" />
 
-## 🚀 About Me  
-I specialize in crafting **interactive, high-performance web applications** using modern frontend technologies. My passion lies in building **smooth, scalable, and visually appealing user experiences**, while ensuring **performance optimization and clean, maintainable code**.  
+<a href="https://hayderaly.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/hayderaly"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/haederalee"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=Hayder7Aly&style=for-the-badge&color=8B5CF6&label=Views" />
 
-While my expertise is in **frontend engineering**, I also have a **solid understanding of backend technologies**, which allows me to work on **full-stack applications** when needed.  
+</div>
 
-💡 **_"Great user interfaces are not just built—they are carefully crafted—seamlessly blending functionality with aesthetics."_**  
+---
 
-### 🚀 Tech Stack:
+### 🤖 About me
 
-- **🧑‍💻 Frontend**: JavaScript, TypeScript, React.js, Next.js, Redux, Redux Toolkit, React Query, TailwindCSS, Material UI, Ant Design, Formik, Yup, Firebase  
-- **⚙️ Backend**: Node.js, Express.js, MongoDB, MySQL, PostgreSQL, GraphQL, Apollo Server, RESTful APIs, Firebase Authentication, Stripe, Twilio, SendGrid  
-- **🛠️ Tools & Platforms**: Git, Vercel, Appwrite, Docker, Postman, Jest, Cypress  
-- **✅ Quality Assurance**: React Testing Library, Jest, Cypress, Manual & Automated Testing, TDD, BDD  
+I'm an **AI Full-Stack Engineer** who builds LLM-powered products end to end: the agents, the retrieval pipelines, the APIs behind them and the infrastructure that keeps them running in production.
 
+- 🧠 **Agents** with LangGraph that plan, call tools, keep memory and loop in a human when needed
+- 📚 **RAG pipelines** that turn messy documents into grounded, trustworthy answers
+- ⚙️ **Backends** in FastAPI and Node.js with streaming, queues, auth and proper observability
+- ☁️ **Deployment** with Docker, AWS and CI/CD, because a demo isn't a product
 
-&nbsp;
-&nbsp;
+> 💡 *The model is the easy part. The real work is retrieval, evals and the system around it.*
 
-<p align="center">
-    <!-- Core Tech Stack -->
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-    </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
-    </a>
-    <a href="https://graphql.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-    </a>
+---
 
-  <a href="https://typescriptlang.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-    </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
-    <a href="https://docker.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-    </a>
-    <a href="https://www.postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-    </a>
-    <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" />
-    </a>
-    <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" />
-    </a>
-    <a href="https://cypress.io" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-    </a>
-    <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" />
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-    </a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-    </a>
+### 🛠️ Tech stack
+
+**AI & LLMs**
+<p>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-6E56CF?style=flat-square" />
 </p>
 
-&nbsp;
-&nbsp;
+**Vector DBs & Retrieval**
+<p>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square" />
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" />
+<img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
+</p>
 
-🔥 **Always exploring new technologies and improving code quality!** 🚀  
+**Backend, Data & Infra**
+<p>
+<img src="https://skillicons.dev/icons?i=python,ts,fastapi,nodejs,express,graphql,postgres,mongodb,redis,docker,aws,githubactions,linux,nextjs,react" />
+</p>
 
+---
 
-#### 🛠️ Code Sample:
-```typescript
-// 🚀 Full-Stack Hello World with a twist!
+### ⚡ How I ship AI
 
-const fetchGreeting = async (name: string): Promise<string> => {
-  const response = await fetch(`https://api.example.com/greet?name=${name}`);
-  const data = await response.json();
-  return data.message;
-};
-
-const greet = async (name: string) => {
-  console.log(await fetchGreeting(name));
-};
-
-greet("Visitor"); // Expected Output: "Hello, Visitor! 👋 (from the cloud ☁️)"
-
+```mermaid
+flowchart LR
+    A[📄 Data] --> B[✂️ Chunk + Embed] --> C[(🗂️ Vector DB)]
+    D[💬 Query] --> E{🧭 LangGraph Agent}
+    C --> E
+    E <--> F[🛠️ Tools / APIs]
+    E --> G[⚙️ FastAPI Stream] --> H[✨ App]
 ```
 
-## Contact Me
-   <p align="center">
-        <a href="https://hayderaly.vercel.app"><img src="https://img.icons8.com/fluent/64/000000/domain.png"
-                alt="darkwood" /></a>
-        <a href="mailto:007harryjutt@gmail.com"><img src="https://img.icons8.com/color/64/000000/gmail.png"
-                alt="email" /></a>
-        <a href="https://twitter.com/@haederalee"><img src="https://img.icons8.com/color/64/000000/twitter-squared.png"
-                alt="twitter" /></a>
-        <a href="https://linkedin.com/in/hayderaly"><img src="https://img.icons8.com/color/64/000000/linkedin.png"
-                alt="linkedin" /></a>
-        <a href="https://www.reddit.com/user/Internal-Source5388/"><img
-                src="https://img.icons8.com/color/64/000000/reddit.png" alt="reddit" /></a>
-        <a href="https://stackoverflow.com"><img src="https://img.icons8.com/color/64/000000/stackoverflow.png"
-                alt="stackoverflow" /></a>
-    </p>
+---
 
+### 🔭 Currently
+
+- 🧪 Building multi-agent systems with memory and human-in-the-loop
+- 📏 Getting serious about LLM evals and tracing
+- 🔌 Connecting agents to real tools through MCP
+
+---
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Hayder7Aly&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hayder7Aly&layout=compact&theme=tokyonight&hide_border=true" />
+
+<sub>📍 Lahore, Pakistan · Got an AI idea? Let's build it. 🚀</sub>
+
+</div>
